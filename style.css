@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto, Geneva, Tahoma, sans-serif;
+}
+
+nav h3 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+nav, footer, .hero {
+    background-color: #1f2937;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;    
+}
+
+.hero p, nav a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+.section-boxes h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.section-quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.call-box{
+    background-color: #3882f6;
+}
+
+.call-button {
+    background-color: #3882f6;
+    color: white;
+    padding: 4px 20px;
+    border-radius: 5px;
+}
