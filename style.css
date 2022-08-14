@@ -188,7 +188,7 @@ nav, footer, .hero {
     color: white;
     border-radius: 10px;
     min-width: 1000px;
-    height: 100px;
+    height: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -219,4 +219,6 @@ footer {
     padding: 20px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 80px;
 }
