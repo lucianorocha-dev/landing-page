@@ -58,7 +58,7 @@ nav, footer, .hero {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    min-height: 350px;
+    min-height: 400px;
     padding: 0px;
 }
 
@@ -109,7 +109,7 @@ nav, footer, .hero {
 }
 
 .section-boxes {
-    min-height: 400px;
+    min-height: 370px;
     text-align: center;
 }
 
@@ -152,7 +152,7 @@ nav, footer, .hero {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 300px;
+    min-height: 400px;
 
 }
 
@@ -180,6 +180,7 @@ nav, footer, .hero {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 270px;
 }
 
 .call-box{
